@@ -1,5 +1,5 @@
-import { TShirt } from '../components/TShirt';
-import { TShirtSetup } from '../components/TShirtSetup';
+import { TShirt } from '../../components/TShirt';
+import { TShirtSetup } from '../../components/TShirtSetup';
 import './style.css';
 
 export const HomePage = () => {
